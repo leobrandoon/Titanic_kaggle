@@ -18,3 +18,8 @@ Adema tiene con objetivo establecer una estructura de trabajo como guia para el 
 <p>Probando tres modelos</p> 
 <p> Conclusiones</p>
  
+<p></p>
+<p>Puedes Objetener los datos en el siguiente link</p>
+<p>
+https://www.kaggle.com/c/titanic
+</p>
